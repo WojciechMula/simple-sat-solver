@@ -1,0 +1,5 @@
+*.o
+*.gch
+*.swp
+test/test
+test/demo
